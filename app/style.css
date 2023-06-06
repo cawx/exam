@@ -1,0 +1,43 @@
+.bgimage {
+    background: url('../public/hero1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+.bgimage2 {
+  background: url('../public/section1.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.bgimage3 {
+  background: url('../public/section2.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.bgimage4 {
+  background: url('../public/section3.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.bgimage5 {
+  background: url('../public/section4.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.bgimage6 {
+  background: url('../public/section5.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.bgimage7 {
+  background: url('../public/section6.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
